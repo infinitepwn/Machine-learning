@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概论.md",
+                "file": "回归.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概论"
+              "title": "回归"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概论.md",
+                "file": "回归.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,9 @@
   },
   "active": "da73ff104bd6c7b2",
   "lastOpenFiles": [
-    "未命名.md",
     "概论.md",
-    "课程介绍.md"
+    "回归.md",
+    "课程介绍.md",
+    "未命名.md"
   ]
 }
