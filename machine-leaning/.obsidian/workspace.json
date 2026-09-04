@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "回归.md",
+                "file": "lab/lab0/lab0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "回归"
+              "title": "lab0"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "回归.md",
+                "file": "lab/lab0/lab0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,9 +201,13 @@
   },
   "active": "da73ff104bd6c7b2",
   "lastOpenFiles": [
-    "概论.md",
     "回归.md",
+    "lab/lab0/lab0.md",
     "课程介绍.md",
+    "概论.md",
+    "lab/lab0/lab0.py",
+    "lab/lab0",
+    "lab",
     "未命名.md"
   ]
 }
