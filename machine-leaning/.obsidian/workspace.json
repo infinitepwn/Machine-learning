@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab/lab0/lab0.md",
+                "file": "第一章-回归/回归1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab0"
+              "title": "回归1"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab/lab0/lab0.md",
+                "file": "第一章-回归/回归1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,13 +201,16 @@
   },
   "active": "da73ff104bd6c7b2",
   "lastOpenFiles": [
-    "回归.md",
+    "第一章-回归/回归2.md",
+    "第二章-梯度下降/梯度下降.md",
+    "第一章-回归/回归1.md",
+    "第二章-梯度下降",
+    "第一章-回归",
     "lab/lab0/lab0.md",
     "课程介绍.md",
     "概论.md",
     "lab/lab0/lab0.py",
     "lab/lab0",
-    "lab",
-    "未命名.md"
+    "lab"
   ]
 }
