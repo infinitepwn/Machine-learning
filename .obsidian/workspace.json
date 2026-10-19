@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c467d2fe3d4645ca",
+    "id": "1480f3944dd65e17",
     "type": "split",
     "children": [
       {
-        "id": "4e887084b78d814c",
+        "id": "69a32aa29937b5df",
         "type": "tabs",
         "children": [
           {
-            "id": "da73ff104bd6c7b2",
+            "id": "5ac82737d12a3130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章-回归/回归1.md",
+                "file": "machine-learning/第四章-深度学习/反向传播.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "回归1"
+              "title": "反向传播"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e5d8055df2ad388",
+    "id": "619cac72a565e850",
     "type": "split",
     "children": [
       {
-        "id": "eac101223e2608a9",
+        "id": "58e4740adf760848",
         "type": "tabs",
         "children": [
           {
-            "id": "6648dca93fb42785",
+            "id": "048c7dc525c16749",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "67958493554ed06c",
+            "id": "817d0ee0ef8c2702",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "67c175042ef42a7d",
+            "id": "ae4ce14b7d456c48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "dec3142cfa6a3dd4",
+    "id": "6f4eb3e0e8ed2d4e",
     "type": "split",
     "children": [
       {
-        "id": "35a40828b73d6805",
+        "id": "99dd8b04e1719506",
         "type": "tabs",
         "children": [
           {
-            "id": "7c8f0073d675c148",
+            "id": "1923c8f377b3b4d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概论.md",
+                "file": "machine-learning/第九章- Transformer/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "3fcb8bc749e6f119",
+            "id": "dd547a1b1a49f3f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概论.md",
+                "file": "machine-learning/第九章- Transformer/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "2ad8f9b78269e1f5",
+            "id": "88737fc7799a92ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "87c0eb4c33c78aab",
+            "id": "a6a17ecaa6ff4ce5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "ce9a67c14dafba77",
+            "id": "b75f11d6f08da929",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章-回归/回归1.md",
+                "file": "machine-learning/第九章- Transformer/Transformer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "ffee40b756f9d964",
+            "id": "dd6eb00b443ad62a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,18 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da73ff104bd6c7b2",
+  "active": "5ac82737d12a3130",
   "lastOpenFiles": [
-    "第一章-回归/回归2.md",
-    "第二章-梯度下降/梯度下降.md",
-    "第一章-回归/回归1.md",
-    "第二章-梯度下降",
-    "第一章-回归",
-    "lab/lab0/lab0.md",
-    "课程介绍.md",
-    "概论.md",
-    "lab/lab0/lab0.py",
-    "lab/lab0",
-    "lab"
+    "machine-learning/第三章-分类/分类(Generative model).md",
+    "machine-learning/第三章-分类/分类(Linear Regression).md",
+    "machine-learning/第五章-卷积神经网络/CNN.md",
+    "machine-learning/第五章-卷积神经网络/梯度上升.md",
+    "machine-learning/第九章- Transformer/Transformer.md",
+    "machine-learning/第二章-梯度下降/梯度下降.md",
+    "machine-learning/第四章-深度学习/反向传播.md",
+    "machine-learning/第八章-自注意力机制/Self-Attention.md",
+    "machine-learning/第四章-深度学习/深度学习.md",
+    "machine-learning/第一章-回归/回归1.md",
+    "machine-learning/第七章-RNN/RNN.md",
+    "machine-learning/第八章-自注意力机制",
+    "未命名",
+    "machine-learning/第九章- Transformer"
   ]
 }
